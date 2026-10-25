@@ -1,5 +1,5 @@
-# PICASSO
-Particle Identification, Counting, Analysis and Segmentation of fluorescence Signals and Objects   (Particle Identification, Counting, Analysis and Segmentation for Quantitative Multichannel Fluorescence Microscopy) 
+# PICAFSO
+Particle Identification, Counting and Analysis of Fluorescence Signals and Objects   (Particle Identification, Counting, Analysis and Segmentation for Quantitative Multichannel Fluorescence Microscopy) 
 
 The first code performs 
 Particle detection
